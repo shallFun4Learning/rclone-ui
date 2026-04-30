@@ -1,7 +1,7 @@
 name: 'release-linux'
 
 on:
-  workflow_dispatch
+  workflow_dispatch:
 
 jobs:
   release-linux:
